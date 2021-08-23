@@ -2,7 +2,7 @@
 
 - Represent parameters with ***standard parameter markers (?)*** or ***named parameter markers***.
 
-- CallableStatement.execute(1 or many) ---> returns multiple result sets / unknow number of result sets.
+- CallableStatement.execute(1 or many) ---> returns multiple result sets / unknown number of result sets.
 
 - CallableStatement.executeQuery(1) ---> returns one result set.
 
