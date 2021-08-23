@@ -1,5 +1,7 @@
 # How to call stored procedure from java.
 
+- CallableStatement interface is used to execute SQL stored procedures, cursors, and Functions.
+
 - Represent parameters with ***standard parameter markers (?)*** or ***named parameter markers***.
 
 - CallableStatement.execute(1 or many) ---> returns multiple result sets / unknown number of result sets.
